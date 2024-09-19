@@ -6,3 +6,5 @@ This is lab 1 for Hadiyah Jones.
 Current Date: 15/09/2024
 
 Hello! Hola!
+
+Todays a good day.
